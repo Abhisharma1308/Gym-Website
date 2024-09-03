@@ -75,7 +75,7 @@ if(isset($_POST['submit'])){
                 <ul>
                     <li><a href="index.html">HOME</a></li>
                     <li><a href="aboutus.html">ABOUT US</a></li>
-                    <li><a href="contactus.php">CONTACT US</a></li>
+                    <li><a href="contactus.html">CONTACT US</a></li>
                     <li><a href="new.php">REGISTER</a></li>
                     <li><a href="membership.html">MEMBERSHIP</a></li>
                 </ul>
